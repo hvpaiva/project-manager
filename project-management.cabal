@@ -71,7 +71,7 @@ executable project-management
     build-depends:    base ^>=4.16.1.0
 
     -- Directories containing source files.
-    hs-source-dirs:   app
+    hs-source-dirs:   src
 
     -- Base language which the package is written in.
     default-language: Haskell2010
